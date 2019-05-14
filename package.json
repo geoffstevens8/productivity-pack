@@ -12,7 +12,10 @@
     "extensionPack": [ 
         "softwaredotcom.swdc-vscode", 
         "cosminalco.pomodoro", 
-        "burkeholland.simple-timer"
-
+        "burkeholland.simple-timer", 
+        "Gruntfuggly.todo-tree", 
+        "alefragnani.Bookmarks", 
+        "sleistner.vscode-fileutils", 
+        "streetsidesoftware.code-spell-checker"
     ]
 }
