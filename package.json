@@ -1,0 +1,18 @@
+{
+    "name": "productivity-pack",
+    "displayName": "productivity-pack",
+    "description": "Ultimate set of productivity extensions",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "softwaredotcom.swdc-vscode", 
+        "cosminalco.pomodoro", 
+        "burkeholland.simple-timer"
+
+    ]
+}
