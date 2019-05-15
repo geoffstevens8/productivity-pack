@@ -1,6 +1,6 @@
 # Productivity Pack
 
-The productivity pack includes Visual Studio Code extensions that will streamline the workflow of any developer. 
+The productivity pack includes Visual Studio Code extensions that will streamline the workflow for any developer. 
 
 The pack includes: 
 
@@ -12,7 +12,7 @@ The pack includes:
 * [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils)
 * [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 
-## Why these extensions? 
+## Why should I use these extensions? 
 
 ### Code Time
 
@@ -72,6 +72,6 @@ Code Spell Checker will help catch common spelling errors while keeping the numb
   <img src="https://raw.githubusercontent.com/Jason-Rev/vscode-spell-checker/master/packages/client/images/example.gif" alt="Code Spell Checker for VS Code" />
 </p>
 
-## Want to add more extensions? 
+## Have a suggestion? 
 
 Submit a PR to the [GitHub repo](https://github.com/geoffstevens8/productivity-pack). 
