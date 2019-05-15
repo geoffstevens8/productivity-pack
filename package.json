@@ -9,6 +9,11 @@
     "categories": [
         "Extension Packs"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/geoffstevens8/productivity-pack"
+    },
+    "icon": "icon.png",
     "extensionPack": [ 
         "softwaredotcom.swdc-vscode", 
         "cosminalco.pomodoro", 
