@@ -3,6 +3,7 @@
     "displayName": "Productivity Pack",
     "description": "Ultimate set of productivity extensions",
     "version": "0.0.1",
+    "publisher": "thegeoffstevens",
     "engines": {
         "vscode": "^1.33.0"
     },
