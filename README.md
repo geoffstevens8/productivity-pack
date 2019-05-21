@@ -19,7 +19,7 @@ The productivity pack includes:
 * [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 
 
-## Why should I use these extensions? 
+## Why should you use these extensions? 
 
 ### Pomodoro
 
@@ -116,7 +116,7 @@ Code Spell Checker will help catch common spelling errors while keeping the numb
 Project Manager keeps track of your projects so you can easily switch between projects. Access all of your saved projects from the command palette or sidebar. 
 
 <p align="center" style="margin: 0 10%">
-  <img src="" alt="Project Manager for VS Code" />
+  <img src="https://github.com/geoffstevens8/productivity-pack/blob/master/images/project-manager.png?raw=true" alt="Project Manager for VS Code" />
 </p>
 
 ### Settings Sync
